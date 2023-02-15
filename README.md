@@ -5,7 +5,7 @@
  3. [REGRAS DO JOGO](#regra)
  4. [COMO JOGAR](#play)
  5. [CRÉDITOS](#cred)
- 6. [LICENÇA DO PROJETO](#lic)
+ 6. [LICENÇA DO PROJETO](https://github.com/Kadu-Santos/Jogo-Forca-Javascrip---Web/blob/main/LICENSE)
 *********
 
 <div id='desc'/>
@@ -66,7 +66,3 @@ https://www.npmjs.com/package/readline-sync
 Documentação npm
 https://docs.npmjs.com/cli/v6/commands/npm-init
 
-<div id='lic'/>
-
-## 📄 Licença
-<p><p/>
