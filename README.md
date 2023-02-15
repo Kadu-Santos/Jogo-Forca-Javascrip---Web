@@ -9,25 +9,31 @@
 *********
 
 <div id='desc'/>
+
 ## 📋 Descrição
 <p><p/>
 
-<div id='run'/> 
+<div id='run'/>
+
 ## 🔧 Como executar projeto
 <p><p/>
 
 <div id='regra'/>
+
 ## 📌 Regras do Jogo
 <p><p/>
 
 <div id='play'/>
+
 ## ⌨️ Como jogar
 <p><p/>
 
-<div id='cred'/> 
+<div id='cred'/>
+
 ## ✒️ Créditos
 <p><p/>
 
-<div id='lic'/> 
+<div id='lic'/>
+
 ## 📄 Lincença
 <p><p/>
