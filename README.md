@@ -16,13 +16,13 @@ COMO FUNCIONA -> Este jogo da forca que é executado no prompt de comando, por c
 
 TECNOLOGIAS USADAS -> Esta aplicação foi contruída utilizando o framework Node.js LTS 18.14.0. Este framework permite executar aplicações web fora do navegador cliente, usando um ambiente de tempo de execução javascript. Também foi utilizado um módulo do node.js chamado de readline-sync v1.4.10. Esse módulo permite que seja lido os caractres digitados pelo usuário através do taclado.
 
-DESAFIOS ENCONTRADOS -> Por se tratar de uma aplicação com funcionamento simples, seu desenvolvimento não se mostou difício.
+DESAFIOS ENCONTRADOS -> Por se tratar de uma aplicação com funcionamento simples, seu desenvolvimento não se mostrou difícil.
 
 <div id='run'/>
 
 ## 🔧 Como executar projeto
 <p><p/>
-Para executar esta aplicação é necessesário ter o Node.js LTS 18.14.0 instalado em sua máquina, os demais modulos já estão na pasta do projeto. 
+Para executar esta aplicação é necessesário ter o Node.js LTS 18.14.0 instalado em sua máquina, os demais módulos necessários para a execução já estão na pasta do projeto. 
     
 Faça o downlod do node.js aqui: https://nodejs.org/en/download/
 
@@ -35,7 +35,7 @@ npm start
 
 ## 📌 Regras do Jogo
 <p><p/>
-Regra 01 - Advinhar a palvra antes que todas o numero de tentaivas chegue a zero para vencer.
+Regra 01 - Advinhar a palvra antes que o numero de tentaivas chegue a zero para vencer.
 
 Regra 02 - Se pode tentar apenas uma letra por vez.
 
@@ -49,7 +49,7 @@ REgra 03 - Se o numero de tentativas chegar a zero será game over.
 
 02 - O tamanho da palavra oculta (quantidade de letras) está representado pelos traços.
 
-03 - Clique em uma do seu teclado. Se a letra existir na palavra, a letra será exibida. Caso contrário, será adicionada a lista de letras erradas.
+03 - Aperte a tecla referente a letra que deseja tentar. Se a letra existir na palavra, a letra será exibida. Caso contrário, será adicionada a lista de letras erradas.
 
 04 - O objetivo é descobrir a palavra oculta antes que o numero de tentativas chegue a zero.
 
@@ -60,7 +60,7 @@ REgra 03 - Se o numero de tentativas chegar a zero será game over.
 Stack overflow - Função para retirar acentos
 https://pt.stackoverflow.com/questions/237762/remover-acentos-javascript
 
-Documentação readlineSync]
+Documentação readlineSync
 https://www.npmjs.com/package/readline-sync
 
 Documentação npm
@@ -68,5 +68,5 @@ https://docs.npmjs.com/cli/v6/commands/npm-init
 
 <div id='lic'/>
 
-## 📄 Lincença
+## 📄 Licença
 <p><p/>
