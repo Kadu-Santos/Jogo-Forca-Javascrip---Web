@@ -234,7 +234,7 @@ do{
         exibePalavra(resposta);
 
         //Captura cliques
-        let letra = readLineSync.keyIn("-> ");
+        let letra = readLineSync.keyIn("DIGITE UMA LETRA -> ");
         letra = letra.toUpperCase();
 
         //Verifica existencia da letra digitada
@@ -275,9 +275,3 @@ do{
     }
 
 }while(true);
-
-
-
-
-
-
